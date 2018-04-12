@@ -1,0 +1,7 @@
+{
+    "package": "mygopackage",
+    "image_name": "mygopackage",
+    "go_version": "1.10",
+    "base_image": "ubuntu:bionic",
+    "project_short_description": "A simple golang package"
+}
